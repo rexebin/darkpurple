@@ -7,3 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.01]
 
 - Initial release
+
+## [0.0.02]
+
+- Remove bold for primitives.

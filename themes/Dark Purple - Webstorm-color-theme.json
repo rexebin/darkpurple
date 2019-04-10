@@ -459,7 +459,6 @@
 		  "scope": ["constant.other.color"],
 		  "settings": {
 			"foreground": "#E0957B",
-			"fontStyle": "bold"
 		  }
 		},
 	
@@ -508,7 +507,6 @@
 		  "scope": ["variable.language"],
 		  "settings": {
 			"foreground": "#E0957B",
-			"fontStyle": "bold"
 		  }
 		},
 		{
@@ -777,7 +775,6 @@
 		  ],
 		  "settings": {
 			"foreground": "#E0957B",
-			"fontStyle": "bold"
 		  }
 		},
 	
@@ -1066,7 +1063,6 @@
 		  ],
 		  "settings": {
 			"foreground": "#E0957B",
-			"fontStyle": "bold"
 		  }
 		},
 		{
