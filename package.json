@@ -1,0 +1,33 @@
+{
+    "name": "darkpurple",
+    "displayName": "Dark Purple - WebStorm Edition",
+    "description": "Dark Purple - WebStorm Edition",
+    "version": "0.0.1",
+    "publisher": "rexebin",
+    "icon": "icon.png",
+    "repository": {
+        "url": "https://www.github.com/rexebin/darkpurple"
+      },
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Dark Purple",
+        "WebStorm",
+        "Dark Theme",
+        "Typescript",
+        "Angular"
+      ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Purple - Webstorm",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Purple - Webstorm-color-theme.json"
+            }
+        ]
+    }
+}
