@@ -11,3 +11,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.02]
 
 - Remove bold for primitives.
+
+## [0.0.03]
+
+ - Change progress bar background color to purple
