@@ -15,3 +15,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.03]
 
  - Change progress bar background color to purple
+
+## [0.0.04]
+
+- change list focus background color to purple.

@@ -25,7 +25,8 @@
 		"editorGroupHeader.tabsBackground":"#2c2c3b",
 		"list.activeSelectionBackground": "#713a91",
 		"editor.selectionBackground": "#214283",
-		"progressBar.background": "#713a91"
+		"progressBar.background": "#713a91",
+		"list.focusBackground": "#713a91"
 	  },
 	  "tokenColors": [
 		{
