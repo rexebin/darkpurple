@@ -27,8 +27,7 @@
 		"editor.selectionBackground": "#214283",
 		"progressBar.background": "#713a91",
 		"list.focusBackground": "#713a91",
-		"editor.wordHighlightBackground": "#546e7a55",
-		"editor.selectionHighlightBackground": "#546e7aee"
+		"editor.wordHighlightBackground": "#546e7a55"
 	  },
 	  "tokenColors": [
 		{

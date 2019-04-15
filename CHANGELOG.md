@@ -23,3 +23,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.05]
 
 - set transparent color for word highlight background color.
+
+## [0.0.06]
+
+- remove selection highlight background.
