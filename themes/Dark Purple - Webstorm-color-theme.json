@@ -840,6 +840,7 @@
 			"keyword.other.using.cs",
 			"keyword.other.class.cs",
 			"keyword.other.new",
+			"keyword.other.var",
 			"keyword.other.await",
 			"keyword.other.namespace",
 			"keyword.type.cs",

@@ -27,3 +27,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.06]
 
 - remove selection highlight background.
+
+## [0.0.07]
+
+- add color to 'var' keyword in c#.
