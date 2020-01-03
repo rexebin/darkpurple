@@ -18,14 +18,15 @@
         "Dark Purple",
         "WebStorm",
         "Dark Theme",
+        "Pure Black",
         "Typescript",
         "Angular"
     ],
     "contributes": {
         "themes": [{
-            "label": "Dark Purple - Webstorm",
+            "label": "Dark Purple - Black Edition",
             "uiTheme": "vs-dark",
-            "path": "./themes/Dark Purple - Webstorm-color-theme.json"
+            "path": "./themes/Dark Purple - black-color-theme.json"
         }]
     }
 }
