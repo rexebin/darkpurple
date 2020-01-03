@@ -1,8 +1,8 @@
 {
-    "name": "darkpurple",
-    "displayName": "Dark Purple - WebStorm Edition",
-    "description": "Dark Purple - WebStorm Edition",
-    "version": "0.0.8",
+    "name": "darkpurple-black",
+    "displayName": "Dark Purple - Black Edition",
+    "description": "Dark Purple - Black Edition",
+    "version": "0.0.1",
     "publisher": "rexebin",
     "icon": "icon.png",
     "repository": {
