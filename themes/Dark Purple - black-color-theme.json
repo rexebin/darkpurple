@@ -17,6 +17,7 @@
 		"activityBar.background": "#000000",
 		"activityBar.border": "#20202b",
 		"menu.background": "#000000",
+		"menu.border": "#414141",
 		"menu.selectionBackground": "#713a91",
 		"menubar.selectionBackground": "#713a91",
 		"menubar.selectionForeground": "#ffffff",
