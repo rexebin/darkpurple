@@ -14,7 +14,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.0.03]
 
- - Change progress bar background color to purple
+- Change progress bar background color to purple
 
 ## [0.0.04]
 
@@ -31,3 +31,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.07]
 
 - add color to 'var' keyword in c#.
+
+## [0.0.08]
+
+- change editor background color to Jetbrains dark-purple theme background color.
