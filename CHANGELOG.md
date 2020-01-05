@@ -15,3 +15,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.3]
 
 - Add menu border.
+
+## [0.0.3]
+
+- Fix colors for angular template with vscode-angular-html.
