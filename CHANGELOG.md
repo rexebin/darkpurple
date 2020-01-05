@@ -35,3 +35,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.08]
 
 - change editor background color to Jetbrains dark-purple theme background color.
+
+## [0.0.09]
+
+- Fix colors for angular template with vscode-angular-html.
