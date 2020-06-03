@@ -39,3 +39,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.09]
 
 - Fix colors for angular template with vscode-angular-html.
+
+## [0.0.10]
+
+- Merge of Pull Request #1
