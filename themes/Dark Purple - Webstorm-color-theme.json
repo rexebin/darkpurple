@@ -1014,6 +1014,20 @@
 			}
 		},
 		{
+			"name": "support.class.component.js.js",
+			"scope": ["support.class.component.js.js", "entity.name.tag.js.js"],
+			"settings": {
+				"foreground": "#C7A65D"
+			}
+		},
+		{
+			"name": "meta.js.children.js.js",
+			"scope": ["meta.js.children.js.js"],
+			"settings": {
+				"foreground": "#d4d4d4"
+			}
+		},
+		{
 			"name": "variable.other.readwrite.js source.directive.angular",
 			"scope": [
 				"text.angular.html variable.other.readwrite.js",
